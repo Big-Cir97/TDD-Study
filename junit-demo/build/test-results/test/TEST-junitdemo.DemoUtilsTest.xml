@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junitdemo.DemoUtilsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-04-27T23:48:50" hostname="daewonui-Macmini.local" time="0.017">
+  <properties/>
+  <testcase name="EqualsAndNotEquals Test" classname="junitdemo.DemoUtilsTest" time="0.014"/>
+  <testcase name="NullAndNotNull Test" classname="junitdemo.DemoUtilsTest" time="0.0"/>
+  <system-out><![CDATA[Running @BeforeEach
+Running @AfterEach
+Running @BeforeEach
+Running @AfterEach
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
